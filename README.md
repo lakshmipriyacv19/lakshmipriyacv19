@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi 👋 I'm Lakshmi Priya
 
-<!--
-**lakshmipriyacv19/lakshmipriyacv19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+🎓 B.Tech Student
 
-Here are some ideas to get you started:
+💻 Learning
+- DSA
+- C++
+- Java
+- AI
+- Full Stack Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎯 Goal
+Become a Software Engineer.
+
+## Skills
+- C++
+- Java
+- Python
+- HTML
+- CSS
+- Git
+- GitHub
+
+## Current Focus
+✔ Daily DSA
+✔ Building Projects
+✔ Placement Preparation
